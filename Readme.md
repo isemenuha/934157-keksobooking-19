@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Иван Семенуха](https://up.htmlacademy.ru/javascript/19/user/934157).
-* Наставник: `Алексей Дорофеев`.
+* Наставник: [Алексей Дорофеев](https://htmlacademy.ru/profile/id299055).
 
 ---
 
